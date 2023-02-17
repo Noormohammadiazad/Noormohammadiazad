@@ -2,6 +2,6 @@
 - 📫 And that's how to reach me
 
 <!---
-Noormohammadiazad/Noormohammadiazad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Noormohammadiazad/Noormohammadiazad is a ✨ special ✨ repository
+You can click the Preview link to take a look at my changes.
 --->
